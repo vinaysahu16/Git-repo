@@ -7,3 +7,5 @@ now again im channging from notepad
 im trying
 
 now again im changing from github second time
+
+finally pulling and pushing work
